@@ -1,2 +1,2 @@
-# TheBindingOfVacuumCleaner
-some game about silly vacuum cleaner
+# The Binding Of Vacuum Cleaner
+some game about silly vacuum cleaner inspired by TBOI
